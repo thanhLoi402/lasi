@@ -1,0 +1,14 @@
+<config>
+	<tram name = "tram1">
+		<partDiv>/home/loint/python/</partDiv>
+		<partLog>/home/loint/test_log/</partLog>
+		<oldFormat>date;time;name;[ma;value1;value2]</oldFormat>
+		<newFormat>name;ma;date;value2;time;value1</newFormat>
+	</tram>
+	<tram name = "tram2">
+		<partDiv>/home/loint/python/</partDiv>
+		<partLog>/home/loint/test_log/</partLog>
+		<oldFormat>date;time;name;[ma;value1;value2]</oldFormat>
+		<newFormat>name;ma;date;value2;time;value1</newFormat>
+	</tram>
+</config>
